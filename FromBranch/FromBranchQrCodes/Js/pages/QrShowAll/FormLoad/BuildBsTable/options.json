@@ -54,8 +54,8 @@
             "title": "DC #"
         },
         {
-            "title": "DC Date",
-            "field": "DCDate"
+            "title": "DCDate",
+            "field": "DC Date"
         },
         {
             "title": "BranchName",
